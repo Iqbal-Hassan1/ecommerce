@@ -1,0 +1,11 @@
+require('../src/api/categories/model');
+require('../src/api/images/model');
+require('../src/api/media/model');
+require('../src/api/options/model');
+require('../src/api/optionsValues/model');
+require('../src/api/productCategories/model');
+require('../src/api/productOptions/model');
+require('../src/api/products/model');
+require('../src/api/productVariants/model');
+require('../src/api/users/model');
+require('../src/api/variantValues/model');

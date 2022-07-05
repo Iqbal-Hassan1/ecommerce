@@ -1,0 +1,7 @@
+/node_modules
+/public
+/vendor
+/.idea
+.env
+package-lock.json
+yarn.lock
